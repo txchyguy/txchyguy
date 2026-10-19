@@ -99,10 +99,12 @@ Supervised machine learning projects involving Logistic Regression, Decision Tre
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=txchyguy&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
 
-## GitHub Trophies
+## Badges & Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=txchyguy&theme=radical&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub-Developer-181717?style=for-the-badge&logo=github" alt="GitHub Developer"/>
+  <img src="https://img.shields.io/badge/Repositories-Projects-blueviolet?style=for-the-badge&logo=git" alt="Repositories"/>
+  <img src="https://img.shields.io/badge/Open_Source-Learner-2EA44F?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source Learner"/>
 </p>
 
 ## Top Contributed Repositories
