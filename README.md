@@ -85,7 +85,7 @@ Passionate about developing practical web applications, backend systems, and dat
 
 <br/><br/>
 
-<a href="https://txchyguy.github.io/MainPortfolio">↗ VIEW PORTFOLIO</a>
+<a href="https://talha0135.github.io/txlhx/">↗ VIEW PORTFOLIO</a>
 
 </td>
 <td width="50%" valign="top">
@@ -140,20 +140,6 @@ Passionate about developing practical web applications, backend systems, and dat
 <br/><br/>
 
 <img width="85%" src="https://streak-stats.demolab.com?user=txchyguy&hide_border=true&background=0D1117&ring=A78BFA&fire=F59E0B&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Contribution streak"/>
-
-</div>
-
-<!-- ===================== CONTRIBUTION GRAPH ===================== -->
-
-## `05` / CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=txchyguy&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph"/>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/txchyguy/txchyguy/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
 
 </div>
 
