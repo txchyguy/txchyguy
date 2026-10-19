@@ -182,8 +182,6 @@ Passionate about developing practical web applications, backend systems, and dat
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=txchyguy&label=PROFILE+VIEWS&color=8B5CF6&style=flat-square" alt="Profile views"/>
-
 <br/>
 
 **Building with purpose. Learning by doing. Improving every day.**
