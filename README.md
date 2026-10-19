@@ -143,6 +143,37 @@ Passionate about developing practical web applications, backend systems, and dat
 
 </div>
 
+<!-- ===================== ACHIEVEMENTS ===================== -->
+
+## `05` / GITHUB ACHIEVEMENTS
+
+<div align="center">
+
+<a href="https://github.com/txchyguy?achievement=yolo&tab=achievements">
+  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png"
+       width="110"
+       alt="YOLO GitHub Achievement"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/txchyguy?achievement=quickdraw&tab=achievements">
+  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png"
+       width="110"
+       alt="Quickdraw GitHub Achievement"/>
+</a>
+
+<br/>
+
+**YOLO** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Quickdraw**
+
+<br/>
+
+<a href="https://github.com/txchyguy?tab=achievements">
+  <img src="https://img.shields.io/badge/VIEW%20ALL%20ACHIEVEMENTS-8B5CF6?style=for-the-badge&logo=github&logoColor=white"
+       alt="View all GitHub achievements"/>
+</a>
+
+</div>
+
 <!-- ===================== FOOTER ===================== -->
 
 <div align="center">
@@ -151,7 +182,7 @@ Passionate about developing practical web applications, backend systems, and dat
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=txchyguy&label=PROFILE%20VIEWS&color=8B5CF6&style=flat-square" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=txchyguy&label=PROFILE+VIEWS&color=8B5CF6&style=flat-square" alt="Profile views"/>
 
 <br/>
 
