@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0D1117,50:30105E,100:8B5CF6&text=Abutalha%20Sayyed&fontColor=FFFFFF&fontSize=48&fontAlignY=42&desc=SOFTWARE%20DEVELOPER%20%7C%20BACKEND%20%7C%20DATA%20ANALYTICS&descSize=13&descAlignY=62&animation=fadeIn&stroke=8B5CF6&strokeWidth=1" width="100%" alt="Abutalha Sayyed header"/>
 
-<a href="https://talha0135.github.io/txlhx/"><img src="https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://txchyguy.github.io/Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/abutalha-sayyed-a2343a3b4"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:abutalhasayyed82@gmail.com"><img src="https://img.shields.io/badge/CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
