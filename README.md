@@ -2,10 +2,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0D1117,50:30105E,100:8B5CF6&text=Abutalha%20Sayyed&fontColor=FFFFFF&fontSize=48&fontAlignY=42&desc=SOFTWARE%20DEVELOPER%20%7C%20BACKEND%20%7C%20DATA%20ANALYTICS&descSize=13&descAlignY=62&animation=fadeIn&stroke=8B5CF6&strokeWidth=1" width="100%" alt="Abutalha Sayyed header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,50:30105E,100:8B5CF6&section=header&text=Abutalha%20Sayyed&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20BACKEND%20%7C%20DATA%20ANALYTICS&descSize=14&descAlignY=58&animation=fadeIn" width="100%" alt="Abutalha Sayyed header"/>
 
 <a href="https://txchyguy.github.io/Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/abutalha-sayyed-a2343a3b4"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/abutalha-sayyed-a2343a3b4/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:abutalhasayyed82@gmail.com"><img src="https://img.shields.io/badge/CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/>
@@ -114,6 +114,10 @@ Passionate about developing practical web applications, backend systems, and dat
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/>
 
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/abutalha-sayyed-a2343a3b4/">↗ VIEW ON LINKEDIN</a>
+
 </td>
 <td width="50%" valign="top">
 
@@ -192,6 +196,8 @@ Passionate about developing practical web applications, backend systems, and dat
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=txchyguy&hide_border=true&background=0D1117&ring=A78BFA&fire=F59E0B&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Contribution streak"/>
 
 <br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=txchyguy&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&area_color=8B5CF6&hide_border=true" alt="Contribution activity graph"/>
 
 </div>
 
