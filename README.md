@@ -1,4 +1,4 @@
- <!-- ===================== HEADER ===================== -->
+<!-- ===================== HEADER ===================== -->
 
 <div align="center">
 
@@ -126,6 +126,60 @@ Passionate about developing practical web applications, backend systems, and dat
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>05. DigiWallet</h3>
+
+<p>Digital wallet web project built and improved through regular commits and pull requests.</p>
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
+
+<br/><br/>
+
+<a href="https://github.com/txchyguy/DigiWallet">↗ VIEW REPOSITORY</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>06. VirtualCard</h3>
+
+<p>Virtual card web project focused on clean UI and a practical card experience.</p>
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
+
+<br/><br/>
+
+<a href="https://github.com/txchyguy/VirtualCard">↗ VIEW REPOSITORY</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>07. XO-Arena</h3>
+
+<p>Tic-tac-toe style game project built for fun and practice.</p>
+
+<br/>
+
+<a href="https://github.com/txchyguy/XO-Arena">↗ VIEW REPOSITORY</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>08. Wise</h3>
+
+<p>JavaScript project forked and extended with my own changes.</p>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+
+<br/><br/>
+
+<a href="https://github.com/txchyguy/Wise">↗ VIEW REPOSITORY</a>
+
+</td>
+</tr>
 </table>
 
 <!-- ===================== ANALYTICS ===================== -->
@@ -135,11 +189,9 @@ Passionate about developing practical web applications, backend systems, and dat
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=txchyguy&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=txchyguy&layout=donut&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=6" alt="Language distribution"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=txchyguy&hide_border=true&background=0D1117&ring=A78BFA&fire=F59E0B&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Contribution streak"/>
 
 <br/><br/>
-
-<img width="85%" src="https://streak-stats.demolab.com?user=txchyguy&hide_border=true&background=0D1117&ring=A78BFA&fire=F59E0B&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Contribution streak"/>
 
 </div>
 
@@ -149,6 +201,12 @@ Passionate about developing practical web applications, backend systems, and dat
 
 <div align="center">
 
+<a href="https://github.com/txchyguy?achievement=pull-shark&tab=achievements">
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png"
+       width="110"
+       alt="Pull Shark GitHub Achievement"/>
+</a>
+&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/txchyguy?achievement=yolo&tab=achievements">
   <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png"
        width="110"
@@ -163,7 +221,7 @@ Passionate about developing practical web applications, backend systems, and dat
 
 <br/>
 
-**YOLO** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Quickdraw**
+**Pull Shark** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **YOLO** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Quickdraw**
 
 <br/>
 
