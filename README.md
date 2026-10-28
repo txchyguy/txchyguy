@@ -197,8 +197,6 @@ Passionate about developing practical web applications, backend systems, and dat
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=txchyguy&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&area_color=8B5CF6&hide_border=true" alt="Contribution activity graph"/>
-
 </div>
 
 <!-- ===================== ACHIEVEMENTS ===================== -->
