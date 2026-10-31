@@ -197,6 +197,14 @@ Passionate about developing practical web applications, backend systems, and dat
 
 <br/><br/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/txchyguy/txchyguy/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/txchyguy/txchyguy/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/txchyguy/txchyguy/output/pacman-contribution-graph-dark.svg">
+</picture>
+
+<br/><br/>
+
 </div>
 
 <!-- ===================== ACHIEVEMENTS ===================== -->
