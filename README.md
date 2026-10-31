@@ -36,7 +36,7 @@ Passionate about developing practical web applications, backend systems, and dat
 </td>
 <td width="35%" align="center" valign="middle">
 
-<img src="https://github-readme-stats.vercel.app/api?username=txchyguy&show_icons=true&hide_title=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&rank_icon=github" width="100%" alt="GitHub overview"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=txchyguy&theme=github_dark" width="100%" alt="GitHub overview"/>
 
 </td>
 </tr>
@@ -192,7 +192,7 @@ Passionate about developing practical web applications, backend systems, and dat
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=txchyguy&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=txchyguy&theme=github_dark" alt="GitHub statistics"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=txchyguy&hide_border=true&background=0D1117&ring=A78BFA&fire=F59E0B&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Contribution streak"/>
 
 <br/><br/>
@@ -243,8 +243,6 @@ Passionate about developing practical web applications, backend systems, and dat
 <a href="https://github.com/txchyguy?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
 
 <br/><br/>
-
-<br/>
 
 **Building with purpose. Learning by doing. Improving every day.**
 
