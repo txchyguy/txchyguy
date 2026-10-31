@@ -85,7 +85,7 @@ Passionate about developing practical web applications, backend systems, and dat
 
 <br/><br/>
 
-<a href="https://talha0135.github.io/txlhx/">↗ VIEW PORTFOLIO</a>
+<a href="https://github.com/txchyguy/Portfolio">↗ VIEW PORTFOLIO</a>
 
 </td>
 <td width="50%" valign="top">
