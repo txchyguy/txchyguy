@@ -193,9 +193,6 @@ Passionate about developing practical web applications, backend systems, and dat
 <div align="center">
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=txchyguy&theme=github_dark" alt="GitHub statistics"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=txchyguy&theme=github_dark" alt="Most used languages"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=txchyguy&theme=github_dark" alt="Repositories per language"/>
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=txchyguy&theme=github_dark&utcOffset=5.5" alt="Productive time"/>
 
 <br/><br/>
