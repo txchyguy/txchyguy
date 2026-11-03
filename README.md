@@ -193,7 +193,7 @@ Passionate about developing practical web applications, backend systems, and dat
 <div align="center">
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=txchyguy&theme=github_dark" alt="GitHub statistics"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=txchyguy&hide_border=true&background=0D1117&ring=A78BFA&fire=F59E0B&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Contribution streak"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=txchyguy&theme=dark&hide_border=true&background=0D1117&ring=A78BFA&fire=F59E0B&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Contribution streak"/>
 
 <br/><br/>
 
@@ -214,21 +214,15 @@ Passionate about developing practical web applications, backend systems, and dat
 <div align="center">
 
 <a href="https://github.com/txchyguy?achievement=pull-shark&tab=achievements">
-  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png"
-       width="110"
-       alt="Pull Shark GitHub Achievement"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="110" alt="Pull Shark GitHub Achievement"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/txchyguy?achievement=yolo&tab=achievements">
-  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png"
-       width="110"
-       alt="YOLO GitHub Achievement"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="110" alt="YOLO GitHub Achievement"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/txchyguy?achievement=quickdraw&tab=achievements">
-  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png"
-       width="110"
-       alt="Quickdraw GitHub Achievement"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="110" alt="Quickdraw GitHub Achievement"/>
 </a>
 
 <br/>
@@ -238,8 +232,7 @@ Passionate about developing practical web applications, backend systems, and dat
 <br/>
 
 <a href="https://github.com/txchyguy?tab=achievements">
-  <img src="https://img.shields.io/badge/VIEW%20ALL%20ACHIEVEMENTS-8B5CF6?style=for-the-badge&logo=github&logoColor=white"
-       alt="View all GitHub achievements"/>
+  <img src="https://img.shields.io/badge/VIEW%20ALL%20ACHIEVEMENTS-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="View all GitHub achievements"/>
 </a>
 
 </div>
